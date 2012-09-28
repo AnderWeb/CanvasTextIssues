@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CanvasText</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="not_available">Hardware acceleration not available</string>
+    <string name="enabled">Hardware acceleration ENABLED</string>
+    <string name="disabled">Hardware acceleration DISABLED</string>
+
+</resources>
